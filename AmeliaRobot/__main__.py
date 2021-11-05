@@ -103,7 +103,7 @@ HELP_STRINGS = """
 𖣘 All commands can either be used with / or !.
 𖣘 If you facing any issue or find any bugs in any command then you can report it @shukurenairobot007 /  @Hollywood_movies_forever* [.](https://telegra.ph/file/676af13bd204af54a41b5.jpg)"""
 
-amelia_IMG = "https://telegra.ph/file/329647a798cccb101aecf.jpg"
+𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎_IMG = "https://telegra.ph/file/d20c98947f200899c2fa6.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @itsmelegend\

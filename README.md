@@ -9,8 +9,8 @@
 <a href="https://t.me/shukurenairobot007" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/Shu_kurenai_ro_bot" alt=" Amelia "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AmeliaRobot-blue" /> </a>
-* Support Channel: <a  href="https://t.me/shukurenai007" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Ameliagroupbot%20Update%20Channel-9cf" /> </a>
+* Bot Link:  <a href="http://t.me/Shu_kurenai_ro_bot" alt=" shukurenai "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Shu_kurenai_ro_bot-blue" /> </a>
+* Support Channel: <a  href="https://t.me/shukurenai007" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-shukurenai007%20Update%20Channel-9cf" /> </a>
 
 
 

@@ -74,9 +74,11 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/329647a798cccb101aecf.jpg), ɪᴍ Amelia ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
-`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help   
-"""
+Hello I'm [𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎](https://telegra.ph/file/d20c98947f200899c2fa6.jpg) ,
+➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
+➪ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Deepak] ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴀɴᴅ [Deepak](https://t.me/deepakjack007) ʜᴇʀᴇ.
+➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ғᴇᴀᴛᴜʀᴇs.
+➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎](https://t.me/Hollywood_movies_forever)"""
 
 buttons = [
     [

@@ -83,16 +83,28 @@ Hello I'm [𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎](https://telegra.ph/file/d2
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ Amelia ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/ameliagroup_bot?startgroup=true"),
+            text="➕️ Aᴅᴅ 𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎 ᴛᴏ ɢʀᴏᴜᴘ ➕️", url="t.me/Shu_kurenai_ro_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="amelia_"),
+        InlineKeyboardButton(text="❓𝐇𝐞𝐥𝐩", callback_data="help_back"),
+    ],
+    [
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
-        ),
+            text="🔥𝐋𝐨𝐠𝐬🔥", url="https://t.me/shukurenai007"),
+        InlineKeyboardButton(
+            text="🎉𝐒𝐮𝐩𝐩𝐨𝐫𝐭🎉", url="https://t.me/shukurenairobot007"),
     ],
+    [  
+        InlineKeyboardButton(text="👨‍💻𝐎𝐰𝐧𝐞𝐫👨‍💻", url="https://t.me/deepakjack007"
+    ),
+    ], 
     [
-        InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
+        InlineKeyboardButton(text="🍿𝐌𝐨𝐯𝐢𝐞𝐬🍿", url="https://t.me/joinchat/r9qx47U5xEZjY2E1"
+    ), 
+    ],
+    [   
+        InlineKeyboardButton(text="💥𝐔𝐩𝐝𝐚𝐭𝐞𝐬💥", url="https://t.me/shukurenai007"
+    ),
     ],
 ]
 
@@ -353,7 +365,7 @@ def amelia_about_callback(update, context):
     query = update.callback_query
     if query.data == "amelia_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *amelia*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎*, a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
@@ -361,8 +373,8 @@ def amelia_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_bot licensed under the GNU General Public License v3.0_
-                 \nHere is the [💾Repository](https://github.com/xabhish3k/AmeliaRobot).
-                 \n\nIf you have any question about amelia, let us know at @warbotzchat .""",
+                 \nHere is the [💾Repository](https://github.com/shukurenaibotcreate/shukurenaibot).
+                 \n\nIf you have any question about amelia, let us know at @shukurenairobot007 .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(

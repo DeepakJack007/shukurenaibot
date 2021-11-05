@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/d20c98947f200899c2fa6.jpg">
 </p>
 
-# Amelia Group BoT
+# 𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎 Group BoT
 
 ### Telegram Group
 <p align="left">

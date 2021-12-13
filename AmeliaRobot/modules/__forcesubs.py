@@ -1,4 +1,4 @@
-# credits  @itsmelegend
+# credits  @shukurenai007
 
 import logging
 import time
@@ -12,9 +12,9 @@ from pyrogram.errors.exceptions.bad_request_400 import (
 )
 from pyrogram.types import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
 
-from AmeliaRobot import DRAGONS as SUDO_USERS
-from AmeliaRobot import pbot
-from AmeliaRobot.modules.sql_extended import forceSubscribe_sql as sql
+from AliceZubergRoBot import DRAGONS as SUDO_USERS
+from AliceZubergRoBot import pbot
+from AliceZubergRoBot.modules.sql_extended import forceSubscribe_sql as sql
 
 logging.basicConfig(level=logging.INFO)
 
@@ -181,7 +181,7 @@ def config(client, message):
 
 __help__ = """
 *Force Subscribe:*
-❍ Amelia can mute members who are not subscribed your channel until they subscribe
+❍ AliceZubergRoBot can mute members who are not subscribed your channel until they subscribe
 ❍ When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
 *Setup*
 *Only creator*
@@ -196,4 +196,4 @@ __help__ = """
   💡If you disable fsub, you need to set again for working.. /fsub {channel username} 
  ❍ /fsub clear - To unmute all members who muted by me.
 """
-__mod_name__ = "F-Sub"
+__mod_name__ = "😎F-Sub"
